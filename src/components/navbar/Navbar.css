@@ -1,0 +1,10 @@
+nav {
+	background: #edbb3d;
+	color: #fff;
+	height: 65px;
+	font-weight: 600;
+	font-size: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
